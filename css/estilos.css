@@ -19,6 +19,10 @@ body
     border: 8px solid #ddd;
     margin: 0 auto;
 }
+#post{
+    background: white;
+    padding: 1em;
+}
 #footer {
     background: #777;
     color: white;
